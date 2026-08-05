@@ -1,18 +1,26 @@
-<img
-  src="Readme_assets/banner.png"
-  width="100%"
-  alt="Adam — AI, Game Development, Minecraft, and Three.js"
-/>
+<p align="center">
+  <img
+    src="Readme_assets/banner.png"
+    width="100%"
+    alt="Adam — AI, Game Development, Minecraft, and Three.js"
+  />
+</p>
 
 <div align="center">
 
 <code>&gt; SYSTEM PROFILE LOADED</code>
 
-<br><br>
+<h3>Developer • Problem Solver • Game Builder • Future Creator</h3>
 
-<strong>Developer • Problem Solver • Game Builder • Future Creator</strong>
+<p>
+I build games, interactive worlds, Minecraft systems, web applications,
+AI experiments, and creative software.
+</p>
 
-<br><br>
+<p>
+My goal is to turn ambitious ideas into polished experiences that people can
+explore, use, and remember.
+</p>
 
 <img
   src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=07111F"
@@ -33,25 +41,42 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
-### `PROFILE`
+<h3><code>PROFILE</code></h3>
 
-I'm **Adam**, a developer who enjoys turning ambitious ideas into complete, interactive experiences.
+<p>
+I'm <strong>Adam</strong>, a developer interested in the point where
+programming, artificial intelligence, game development, and digital creativity
+all meet.
+</p>
 
-My work combines programming, artificial intelligence, game development, web development, and digital creativity.
+<p>
+My coding journey started with Roblox Lua and gradually expanded into web
+development, Blender, Unity, Unreal Engine, Godot, Java, Minecraft plugins,
+cybersecurity, local AI, and interactive 3D graphics with Three.js.
+</p>
+
+<p>
+I enjoy learning through ambitious projects. Instead of only following
+tutorials, I like building complete systems, solving the problems that appear,
+and improving the project until it feels like something uniquely mine.
+</p>
 
 </td>
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
-### `ACTIVE MODULES`
+<h3><code>CURRENT FOCUS</code></h3>
 
-- 🤖 Local AI models and coding assistants
-- 🎮 Unity, Unreal Engine, Godot, and Three.js
-- ⛏️ Java and Paper Minecraft development
-- 🌐 Interactive full-stack web applications
-- 🧊 Blender modeling and animation
-- 🔐 Cybersecurity and software systems
+<ul>
+  <li>🤖 Local AI models and coding assistants</li>
+  <li>🎮 Game systems and cinematic experiences</li>
+  <li>🌌 Three.js and browser-based 3D worlds</li>
+  <li>⛏️ Java and Paper Minecraft development</li>
+  <li>🌐 Full-stack websites and SQL databases</li>
+  <li>🧊 Blender modeling and animation</li>
+  <li>🔐 Cybersecurity and software systems</li>
+</ul>
 
 </td>
 </tr>
@@ -59,7 +84,15 @@ My work combines programming, artificial intelligence, game development, web dev
 
 <div align="center">
 
-> **CURRENT OBJECTIVE:** Build polished projects, learn continuously, and transform ambitious ideas into reality.
+<code>ROBLOX LUA</code>
+&nbsp;➜&nbsp;
+<code>BLENDER + WEB</code>
+&nbsp;➜&nbsp;
+<code>UNITY + UNREAL</code>
+&nbsp;➜&nbsp;
+<code>JAVA + GODOT</code>
+&nbsp;➜&nbsp;
+<code>LOCAL AI + THREE.JS</code>
 
 </div>
 
@@ -73,28 +106,57 @@ My work combines programming, artificial intelligence, game development, web dev
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 Neon Sector-7
+<h3>🌌 Neon Sector-7</h3>
 
-An interactive sci-fi portfolio world where visitors explore the different stages of my programming journey.
+<p>
+My flagship project is an interactive sci-fi portfolio world built directly
+for the browser.
+</p>
 
-**Core Modules**
+<p>
+Visitors control an astronaut and explore locations representing different
+stages of my programming journey. The world includes animated characters,
+camera-relative movement, explorable environments, futuristic UI, project
+displays, and a cinematic opening sequence currently in development.
+</p>
 
-`Three.js` `JavaScript` `HTML` `CSS` `Blender`
+<strong>Core Systems</strong>
 
-**Status:** 🟢 In Development
+<p>
+<code>Three.js</code>
+<code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>Blender</code>
+</p>
+
+<strong>Status:</strong> 🟢 In Development
 
 </td>
 <td width="50%" valign="top">
 
-### ⛏️ Minecraft Plugins
+<h3>⛏️ Minecraft Plugins</h3>
 
-Custom minigames, server mechanics, commands, abilities, and multiplayer systems developed for Paper servers.
+<p>
+Custom Minecraft minigames and multiplayer systems developed for Paper servers.
+</p>
 
-**Core Modules**
+<p>
+These projects include commands, abilities, team systems, capture-the-flag
+mechanics, scoreboards, player statistics, game state management, database
+integration, and server-side architecture written in Java.
+</p>
 
-`Java` `Paper` `Gradle` `SQL`
+<strong>Core Systems</strong>
 
-**Status:** 🟢 Active Development
+<p>
+<code>Java</code>
+<code>Paper</code>
+<code>Gradle</code>
+<code>SQL</code>
+</p>
+
+<strong>Status:</strong> 🟢 Active Development
 
 </td>
 </tr>
@@ -102,28 +164,57 @@ Custom minigames, server mechanics, commands, abilities, and multiplayer systems
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Local AI Laboratory
+<h3>🤖 Local AI Laboratory</h3>
 
-Experiments involving local language models, coding assistants, image generation, LoRAs, and offline AI workflows.
+<p>
+An ongoing collection of experiments with offline artificial intelligence and
+AI-assisted development.
+</p>
 
-**Core Modules**
+<p>
+I test local language models, compare coding performance, explore image
+generation and LoRAs, build offline workflows, and experiment with how AI can
+support programming, art, game development, and creative problem-solving.
+</p>
 
-`Ollama` `Qwen` `Flux` `Draw Things`
+<strong>Core Systems</strong>
 
-**Status:** 🔵 Experimenting
+<p>
+<code>Ollama</code>
+<code>Qwen</code>
+<code>Flux</code>
+<code>Draw Things</code>
+</p>
+
+<strong>Status:</strong> 🔵 Experimenting
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web Projects
+<h3>🌐 Web Projects</h3>
 
-Interactive websites featuring databases, user accounts, community posts, ratings, reviews, and creative interfaces.
+<p>
+Creative websites that combine interactive interfaces with real backend
+features.
+</p>
 
-**Core Modules**
+<p>
+My web projects include SQL databases, user accounts, community posts, ratings,
+reviews, dynamic content, custom UI systems, and unusual concepts designed to
+make each project feel different from a standard template.
+</p>
 
-`JavaScript` `Node.js` `HTML` `CSS` `SQL`
+<strong>Core Systems</strong>
 
-**Status:** 🟣 Building
+<p>
+<code>JavaScript</code>
+<code>Node.js</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>SQL</code>
+</p>
+
+<strong>Status:</strong> 🟣 Building
 
 </td>
 </tr>
@@ -137,7 +228,7 @@ Interactive websites featuring databases, user accounts, community posts, rating
 
 <div align="center">
 
-### `LANGUAGES`
+<h3><code>PROGRAMMING LANGUAGES</code></h3>
 
 <img
   src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,lua,html,css,nodejs&perline=9"
@@ -146,7 +237,7 @@ Interactive websites featuring databases, user accounts, community posts, rating
 
 <br><br>
 
-### `GAME DEVELOPMENT + 3D`
+<h3><code>GAME DEVELOPMENT + 3D</code></h3>
 
 <img
   src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs,blender&perline=5"
@@ -155,7 +246,7 @@ Interactive websites featuring databases, user accounts, community posts, rating
 
 <br><br>
 
-### `DEVELOPMENT TOOLS`
+<h3><code>DEVELOPMENT TOOLS</code></h3>
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash,cloudflare,mysql,sqlite&perline=9"
@@ -163,6 +254,50 @@ Interactive websites featuring databases, user accounts, community posts, rating
 />
 
 </div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🎮 Game Systems</h3>
+
+<p align="center">
+Unity<br>
+Unreal Engine<br>
+Godot<br>
+Three.js<br>
+Paper
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🧠 Creative Technology</h3>
+
+<p align="center">
+Local AI<br>
+Image Generation<br>
+3D Modeling<br>
+Animation<br>
+Interactive Design
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">⚙️ Development</h3>
+
+<p align="center">
+Java Architecture<br>
+Web Applications<br>
+SQL Databases<br>
+Git Workflows<br>
+Server Systems
+</p>
+
+</td>
+</tr>
+</table>
 
 <img
   src="Readme_assets/system_activity.png"
@@ -178,6 +313,31 @@ Interactive websites featuring databases, user accounts, community posts, rating
   alt="Adam's GitHub activity graph"
 />
 
+<h3><code>CURRENT MISSION</code></h3>
+
+<p>
+Finish complete, polished projects instead of abandoning ideas halfway through.
+</p>
+
+<p>
+Right now, that means expanding Neon Sector-7, creating its cinematic opening,
+improving my Minecraft development systems, experimenting with local AI, and
+continuing to strengthen my programming and design skills.
+</p>
+
+<img
+  src="https://img.shields.io/badge/NEON_SECTOR--7-IN_DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=07111F"
+  alt="Neon Sector-7 in development"
+/>
+<img
+  src="https://img.shields.io/badge/LOCAL_AI-EXPERIMENTING-8A2BE2?style=for-the-badge&labelColor=07111F"
+  alt="Experimenting with local AI"
+/>
+<img
+  src="https://img.shields.io/badge/JAVA_PLUGINS-ACTIVE-00E5FF?style=for-the-badge&labelColor=07111F"
+  alt="Java plugins active"
+/>
+
 </div>
 
 <img
@@ -187,6 +347,16 @@ Interactive websites featuring databases, user accounts, community posts, rating
 />
 
 <div align="center">
+
+<p>
+Interested in my projects, game development, local AI experiments, or what I'm
+building next?
+</p>
+
+<p>
+Connect with me through Discord and follow the development of Neon Sector-7 and
+my future projects.
+</p>
 
 <a href="https://discord.gg/zyyJp7EQQ">
   <img
@@ -206,11 +376,12 @@ Interactive websites featuring databases, user accounts, community posts, rating
 
 <code>&gt; CODE. BUILD. LEARN. REPEAT.</code>
 
-<br><br>
+<h3>Thanks for visiting Neon Sector-7.</h3>
 
-<strong>Thanks for visiting Neon Sector-7.</strong>
-
-<br><br>
+<p>
+This profile is the command center for everything I'm learning, building, and
+planning to create next.
+</p>
 
 <img
   src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=flat-square&labelColor=07111F"
