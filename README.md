@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/ChatGPT Image Aug 5, 2026, 11_11_26 AM.png" alt="GitHub Banner" width="100%">
+</p>
+
+<br>
+
+<h1 align="center">👋 Hey, I'm Adam</h1>
+
+<p align="center">
+Game Developer • AI Enthusiast • Minecraft Plugin Developer
+</p>
+
 <div align="center">
 
 # 👋 Hey, I'm Adam
