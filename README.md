@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Readme_assets/banner.png" width="100%" alt="Adam — AI, Game Development, Minecraft and Three.js">
+  <img src="Readme_assets/banner.png" width="100%" alt="Neon Sector-7 Banner">
 </p>
 
 <br>
@@ -10,200 +10,182 @@
 
 **Developer** • **Problem Solver** • **Game Builder** • **Future Creator**
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=07111F" alt="Status Online">
-<img src="https://img.shields.io/badge/MISSION-BUILD%20THE%20FUTURE-8A2BE2?style=for-the-badge&labelColor=07111F" alt="Mission Build the Future">
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=07111F">
+
+<img src="https://img.shields.io/badge/MISSION-BUILD_THE_FUTURE-8A2BE2?style=for-the-badge&labelColor=07111F">
 
 </div>
 
-<br>
+<br><br>
 
----
+<p align="center">
+  <img src="Readme_assets/aboutme_v3.png" width="100%">
+</p>
 
-## 🌌 `ABOUT_ME.exe`
+I'm **Adam**, a developer who enjoys building ambitious software, games, AI projects, and interactive experiences.
 
-> Turning ambitious ideas into interactive experiences, one project at a time.
+- 🤖 Experimenting with local AI models and coding assistants
+- 🎮 Developing games with Unity, Unreal Engine, Godot, and Three.js
+- ⛏ Building Minecraft plugins with Java and Paper
+- 🌐 Creating full-stack web applications
+- 🎨 Designing 3D models and environments with Blender
+- 🚀 Building **Neon Sector-7**, an interactive portfolio world
 
-I'm **Adam**, a developer focused on combining programming, game development, artificial intelligence, and digital creativity.
+<br><br>
 
-- 🤖 Experimenting with **local AI models** and coding assistants
-- 🎮 Developing games with **Unity, Unreal Engine, Godot, and Three.js**
-- ⛏️ Building **Minecraft plugins and minigames** with Java and Paper
-- 🌐 Creating interactive websites with modern front-end tools and SQL databases
-- 🧊 Designing 3D models, environments, and animations with Blender
-- 🔐 Exploring cybersecurity, ethical hacking, and software systems
-- 🚀 Building **Neon Sector-7**, an interactive world based on my coding journey
-
-<br>
-
----
-
-## 🚀 `PROJECT_DIRECTORY`
+<p align="center">
+  <img src="Readme_assets/project_directory.png" width="100%">
+</p>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌌 Neon Sector-7
+## 🌌 Neon Sector-7
 
-An interactive sci-fi portfolio world where visitors explore locations representing different stages of my programming journey.
+Interactive Three.js portfolio showcasing my programming journey.
 
-**Technology**
+**Stack**
 
-`Three.js` `JavaScript` `HTML` `CSS` `Blender`
+`Three.js`
+`JavaScript`
+`HTML`
+`CSS`
+`Blender`
 
-**Status:** 🟢 In Development
+🟢 In Development
 
 </td>
+
 <td width="50%" valign="top">
 
-### ⛏️ Minecraft Games
+## ⛏ Minecraft Plugins
 
-Custom Minecraft minigames, server mechanics, commands, abilities, and multiplayer systems developed for Paper servers.
+Custom Paper plugins, minigames, mechanics and multiplayer systems.
 
-**Technology**
+**Stack**
 
-`Java` `Paper` `Gradle` `SQL`
+`Java`
+`Paper`
+`Gradle`
+`SQL`
 
-**Status:** 🟢 Active Development
+🟢 Active
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 Local AI Laboratory
+## 🤖 Local AI
 
-Testing local language models, AI coding assistants, image-generation models, LoRAs, and offline development workflows.
+Testing local LLMs, coding assistants and image generation.
 
-**Technology**
+**Stack**
 
-`Ollama` `Qwen` `Flux` `Draw Things`
+`Ollama`
+`Qwen`
+`Flux`
+`Draw Things`
 
-**Status:** 🔵 Experimenting
+🔵 Experimenting
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+## 🌐 Web Projects
 
-Interactive full-stack websites featuring accounts, databases, community posts, ratings, reviews, and creative user experiences.
+Interactive community websites powered by SQL and JavaScript.
 
-**Technology**
+**Stack**
 
-`JavaScript` `Node.js` `HTML` `CSS` `SQL`
+`Node.js`
+`JavaScript`
+`HTML`
+`CSS`
+`SQL`
 
-**Status:** 🟣 Building
+🟣 Building
 
 </td>
+
 </tr>
+
 </table>
 
-<br>
+<br><br>
 
----
-
-## ⚡ `TECH_STACK`
+<p align="center">
+  <img src="Readme_assets/tech_stack.png" width="100%">
+</p>
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,lua,html,css,nodejs&perline=9" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,lua,html,css,nodejs&perline=9"/>
 
 <br><br>
 
-### Game Development and 3D
+### Game Development
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs,blender&perline=5" alt="Game development and 3D tools">
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs,blender&perline=5"/>
 
 <br><br>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash,cloudflare,mysql,sqlite&perline=9" alt="Development tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash,cloudflare,mysql,sqlite&perline=9"/>
 
 </div>
 
-<br>
+<br><br>
 
----
-
-## 🛰️ `CURRENT_MISSION`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LOCAL_AI-00E5FF?style=for-the-badge&labelColor=07111F" alt="Local AI">
-<img src="https://img.shields.io/badge/THREE.JS-7B61FF?style=for-the-badge&labelColor=07111F" alt="Three.js">
-<img src="https://img.shields.io/badge/JAVA_PLUGINS-00E5FF?style=for-the-badge&labelColor=07111F" alt="Java Plugins">
-<img src="https://img.shields.io/badge/GAME_DEVELOPMENT-7B61FF?style=for-the-badge&labelColor=07111F" alt="Game Development">
-<img src="https://img.shields.io/badge/3D_GRAPHICS-00E5FF?style=for-the-badge&labelColor=07111F" alt="3D Graphics">
-
-</div>
-
-<br>
-
-> **Current objective:** Build complete, polished projects while constantly improving my programming, design, and problem-solving skills.
-
-<br>
-
----
-
-## 📡 `DEVELOPMENT_ACTIVITY`
+<p align="center">
+  <img src="Readme_assets/system_activity.png" width="100%">
+</p>
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=doctordoomies&bg_color=07111F&color=00E5FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true"
-  width="100%"
-  alt="Adam's GitHub activity graph">
+src="https://github-readme-activity-graph.vercel.app/graph?username=doctordoomies&bg_color=07111F&color=00E5FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true"
+width="100%">
 
 </div>
 
-<br>
+<br><br>
 
----
-
-## 🧠 `LEARNING_QUEUE`
-
-<table>
-<tr>
-<td align="center">🤖<br><b>Local AI</b></td>
-<td align="center">🌌<br><b>Three.js</b></td>
-<td align="center">☕<br><b>Java Architecture</b></td>
-<td align="center">🎮<br><b>Game Systems</b></td>
-<td align="center">🧊<br><b>3D Graphics</b></td>
-</tr>
-</table>
-
-<br>
-
----
-
-## 🌐 `ESTABLISH_CONNECTION`
+<p align="center">
+  <img src="Readme_assets/establish_connection.png" width="100%">
+</p>
 
 <div align="center">
 
 <a href="https://discord.gg/zyyJp7EQQ">
-  <img src="https://img.shields.io/badge/JOIN_MY_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=07111F" alt="Join my Discord server">
+<img src="https://img.shields.io/badge/JOIN_MY_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=07111F">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=doctordoomies&style=for-the-badge&color=00B8D9&label=PROFILE+VISITORS" alt="Profile visitors">
+<img src="https://komarev.com/ghpvc/?username=doctordoomies&style=for-the-badge&color=00B8D9&label=PROFILE+VISITORS">
 
 </div>
 
-<br>
-
----
+<br><br>
 
 <div align="center">
 
-### `> CODE. BUILD. LEARN. REPEAT.`
+## `> CODE. BUILD. LEARN. REPEAT.`
 
 **Thanks for visiting Neon Sector-7.**
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=flat-square&labelColor=07111F" alt="System Online">
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=flat-square&labelColor=07111F">
 
 </div>
