@@ -1,191 +1,220 @@
-<p align="center">
-  <img src="Readme_assets/banner.png" width="100%" alt="Neon Sector-7 Banner">
-</p>
-
-<br>
+<img
+  src="Readme_assets/banner.png"
+  width="100%"
+  alt="Adam — AI, Game Development, Minecraft, and Three.js"
+/>
 
 <div align="center">
 
-### `> SYSTEM PROFILE LOADED`
+<code>&gt; SYSTEM PROFILE LOADED</code>
 
-**Developer** • **Problem Solver** • **Game Builder** • **Future Creator**
+<br><br>
 
-<br>
+<strong>Developer • Problem Solver • Game Builder • Future Creator</strong>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=07111F">
+<br><br>
 
-<img src="https://img.shields.io/badge/MISSION-BUILD_THE_FUTURE-8A2BE2?style=for-the-badge&labelColor=07111F">
+<img
+  src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=07111F"
+  alt="Status Online"
+/>
+<img
+  src="https://img.shields.io/badge/MISSION-BUILD_THE_FUTURE-8A2BE2?style=for-the-badge&labelColor=07111F"
+  alt="Mission: Build the Future"
+/>
 
 </div>
 
-<br><br>
-
-<p align="center">
-  <img src="Readme_assets/aboutme_v3.png" width="100%">
-</p>
-
-I'm **Adam**, a developer who enjoys building ambitious software, games, AI projects, and interactive experiences.
-
-- 🤖 Experimenting with local AI models and coding assistants
-- 🎮 Developing games with Unity, Unreal Engine, Godot, and Three.js
-- ⛏ Building Minecraft plugins with Java and Paper
-- 🌐 Creating full-stack web applications
-- 🎨 Designing 3D models and environments with Blender
-- 🚀 Building **Neon Sector-7**, an interactive portfolio world
-
-<br><br>
-
-<p align="center">
-  <img src="Readme_assets/project_directory.png" width="100%">
-</p>
+<img
+  src="Readme_assets/aboutme_v3.png"
+  width="100%"
+  alt="About Me"
+/>
 
 <table>
 <tr>
+<td width="52%" valign="top">
 
-<td width="50%" valign="top">
+### `PROFILE`
 
-## 🌌 Neon Sector-7
+I'm **Adam**, a developer who enjoys turning ambitious ideas into complete, interactive experiences.
 
-Interactive Three.js portfolio showcasing my programming journey.
-
-**Stack**
-
-`Three.js`
-`JavaScript`
-`HTML`
-`CSS`
-`Blender`
-
-🟢 In Development
+My work combines programming, artificial intelligence, game development, web development, and digital creativity.
 
 </td>
+<td width="48%" valign="top">
 
-<td width="50%" valign="top">
+### `ACTIVE MODULES`
 
-## ⛏ Minecraft Plugins
-
-Custom Paper plugins, minigames, mechanics and multiplayer systems.
-
-**Stack**
-
-`Java`
-`Paper`
-`Gradle`
-`SQL`
-
-🟢 Active
+- 🤖 Local AI models and coding assistants
+- 🎮 Unity, Unreal Engine, Godot, and Three.js
+- ⛏️ Java and Paper Minecraft development
+- 🌐 Interactive full-stack web applications
+- 🧊 Blender modeling and animation
+- 🔐 Cybersecurity and software systems
 
 </td>
-
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🤖 Local AI
-
-Testing local LLMs, coding assistants and image generation.
-
-**Stack**
-
-`Ollama`
-`Qwen`
-`Flux`
-`Draw Things`
-
-🔵 Experimenting
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Web Projects
-
-Interactive community websites powered by SQL and JavaScript.
-
-**Stack**
-
-`Node.js`
-`JavaScript`
-`HTML`
-`CSS`
-`SQL`
-
-🟣 Building
-
-</td>
-
-</tr>
-
 </table>
-
-<br><br>
-
-<p align="center">
-  <img src="Readme_assets/tech_stack.png" width="100%">
-</p>
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,lua,html,css,nodejs&perline=9"/>
-
-<br><br>
-
-### Game Development
-
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs,blender&perline=5"/>
-
-<br><br>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash,cloudflare,mysql,sqlite&perline=9"/>
+> **CURRENT OBJECTIVE:** Build polished projects, learn continuously, and transform ambitious ideas into reality.
 
 </div>
 
+<img
+  src="Readme_assets/project_directory.png"
+  width="100%"
+  alt="Project Directory"
+/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 Neon Sector-7
+
+An interactive sci-fi portfolio world where visitors explore the different stages of my programming journey.
+
+**Core Modules**
+
+`Three.js` `JavaScript` `HTML` `CSS` `Blender`
+
+**Status:** 🟢 In Development
+
+</td>
+<td width="50%" valign="top">
+
+### ⛏️ Minecraft Plugins
+
+Custom minigames, server mechanics, commands, abilities, and multiplayer systems developed for Paper servers.
+
+**Core Modules**
+
+`Java` `Paper` `Gradle` `SQL`
+
+**Status:** 🟢 Active Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Local AI Laboratory
+
+Experiments involving local language models, coding assistants, image generation, LoRAs, and offline AI workflows.
+
+**Core Modules**
+
+`Ollama` `Qwen` `Flux` `Draw Things`
+
+**Status:** 🔵 Experimenting
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web Projects
+
+Interactive websites featuring databases, user accounts, community posts, ratings, reviews, and creative interfaces.
+
+**Core Modules**
+
+`JavaScript` `Node.js` `HTML` `CSS` `SQL`
+
+**Status:** 🟣 Building
+
+</td>
+</tr>
+</table>
+
+<img
+  src="Readme_assets/tech_stack.png"
+  width="100%"
+  alt="Tech Stack"
+/>
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img
+  src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,lua,html,css,nodejs&perline=9"
+  alt="Programming languages"
+/>
+
 <br><br>
 
-<p align="center">
-  <img src="Readme_assets/system_activity.png" width="100%">
-</p>
+### `GAME DEVELOPMENT + 3D`
+
+<img
+  src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs,blender&perline=5"
+  alt="Game development and 3D tools"
+/>
+
+<br><br>
+
+### `DEVELOPMENT TOOLS`
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash,cloudflare,mysql,sqlite&perline=9"
+  alt="Development tools"
+/>
+
+</div>
+
+<img
+  src="Readme_assets/system_activity.png"
+  width="100%"
+  alt="System Activity"
+/>
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=doctordoomies&bg_color=07111F&color=00E5FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true"
-width="100%">
+  src="https://github-readme-activity-graph.vercel.app/graph?username=doctordoomies&bg_color=07111F&color=00E5FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="Adam's GitHub activity graph"
+/>
 
 </div>
 
-<br><br>
-
-<p align="center">
-  <img src="Readme_assets/establish_connection.png" width="100%">
-</p>
+<img
+  src="Readme_assets/establish_connection.png"
+  width="100%"
+  alt="Establish Connection"
+/>
 
 <div align="center">
 
 <a href="https://discord.gg/zyyJp7EQQ">
-<img src="https://img.shields.io/badge/JOIN_MY_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=07111F">
+  <img
+    src="https://img.shields.io/badge/JOIN_MY_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=07111F"
+    alt="Join my Discord server"
+  />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=doctordoomies&style=for-the-badge&color=00B8D9&label=PROFILE+VISITORS">
-
-</div>
+<img
+  src="https://komarev.com/ghpvc/?username=doctordoomies&style=for-the-badge&color=00B8D9&label=PROFILE+VISITORS"
+  alt="Profile visitors"
+/>
 
 <br><br>
 
-<div align="center">
+<code>&gt; CODE. BUILD. LEARN. REPEAT.</code>
 
-## `> CODE. BUILD. LEARN. REPEAT.`
+<br><br>
 
-**Thanks for visiting Neon Sector-7.**
+<strong>Thanks for visiting Neon Sector-7.</strong>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=flat-square&labelColor=07111F">
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=flat-square&labelColor=07111F"
+  alt="System Online"
+/>
 
 </div>
