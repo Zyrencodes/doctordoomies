@@ -1,5 +1,19 @@
 <!-- MAIN NEON SECTOR-7 PROFILE -->
+<p align="center">
+  <a href="https://doctordoomies.github.io/">
+    <img
+      src="https://img.shields.io/badge/ENTER_NEON_SECTOR--7-00E5FF?style=for-the-badge&logo=githubpages&logoColor=black"
+      alt="Enter Neon Sector-7"
+    />
+  </a>
 
+  <a href="https://github.com/doctordoomies">
+    <img
+      src="https://img.shields.io/badge/VIEW_GITHUB-8A5CFF?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub"
+    />
+  </a>
+</p>
 <p align="center">
   <a href="Readme_assets/AI_Github_Image.png">
     <img
