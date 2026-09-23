@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="Readme_assets/banner.png"
-    width="100%"
-    alt="Adam — AI, Game Development, Minecraft, and Three.js"
-  />
+  
 </p>
 
 <div align="center">
